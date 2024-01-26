@@ -4,7 +4,7 @@ const data = [
     day: '',
     people: '',
     discription: '',
-    github: '',
+    page: '',
     repo: '',
     stack: ['', ''],
     part: [{ title: '', discription: ['', ''] }],
