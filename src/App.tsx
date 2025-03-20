@@ -25,7 +25,7 @@ function App() {
           <div>
             <div>
               <div>배운 것을 나누며 성장하는 것을 좋아합니다.</div>
-              <div>스터디를 통해</div>
+              <div>스터디를 통해 의견을 나누며 같이 성장해나가는 것을 좋아합니다.</div>
             </div>
           </div>
         </InfoContainer>
